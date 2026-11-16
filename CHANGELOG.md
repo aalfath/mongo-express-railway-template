@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.2-2 (2026-11-16)
+
+- README: added the Deploy on Railway button for the published template `mongo-express-1`. No change to the app or its configuration.
+
 ## 1.0.2-1 (2026-11-16)
 
 First release.
