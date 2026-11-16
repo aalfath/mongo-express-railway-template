@@ -1,3 +1,5 @@
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template/mongo-express-1?utm_medium=integration&utm_source=button&utm_campaign=mongo-express)
+
 # Mongo Express on Railway
 
 A Railway template for [Mongo Express](https://github.com/mongo-express/mongo-express), the web-based admin interface for MongoDB. Use it to browse, edit, import and export the data in the MongoDB your Railway app already uses, or deploy it with its own MongoDB.
